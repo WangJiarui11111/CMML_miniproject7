@@ -38,4 +38,4 @@ The analysis includes:
 
 10. Re-running downstream clustering analysis
 
-11.Saving figures and result tables
+11. Saving figures and result tables
